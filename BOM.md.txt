@@ -1,0 +1,29 @@
+BOM:
+
+Lasercut / Router cut frame parts:
+
+9mm Ply/Acrylic:
+
+1x PrintBed
+2x FrameRing
+1x MotionPlate
+3x PrintBedCorner
+
+3mm Ply/Acrylic:
+
+2x FrameRingCover
+3x BasePannel
+
+Metal Work:
+
+3x 1000mm 20x20 Profile V or T slot
+
+Electronics:
+
+3x NEMA 17 Stepper Motors
+1x Controller board
+1x E3D-V6 (Current build is using a V5 Bowden)
+3x Microswitch end stops
+3x FSR (ForceSensitiveResistors)
+1x 30Amp 12v PSU (Could probably be lower now we don't have a heated bed)
+
